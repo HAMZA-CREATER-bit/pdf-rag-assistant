@@ -1,0 +1,10 @@
+langchain
+langchain-community
+langchain-huggingface
+langchain-deepseek
+faiss-cpu
+python-dotenv
+pypdf
+transformers
+torch
+
